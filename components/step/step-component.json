@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_step_step_components",
+  "info": {
+    "name": "stepComponent",
+    "icon": "code"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "string"
+    },
+    "command": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
